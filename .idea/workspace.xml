@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e72f5b-8540-4abd-a36e-f3af35a4c19b" name="Changes" comment="practice script 19102024">
-      <change afterPath="$PROJECT_DIR$/screenshots/awesomeqa_resister.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_19012024_task.py" afterDir="false" />
+    <list default="true" id="a9e72f5b-8540-4abd-a36e-f3af35a4c19b" name="Changes" comment="task 19012024">
+      <change afterPath="$PROJECT_DIR$/tests/test_22102024.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_27102024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,13 +51,15 @@
     "Python tests.Python tests for test_19012024.test_invalid_email_free_trial.executor": "Run",
     "Python tests.Python tests for test_19012024_task.test_awesomeqa_registration.executor": "Run",
     "Python tests.Python tests for test_19012024_task.test_vwo.executor": "Run",
+    "Python tests.Python tests for test_22102024.test_ebay_search.executor": "Run",
+    "Python tests.Python tests for test_27102024.test_make_my_trip.executor": "Run",
     "Python tests.Python tests in test_18012024.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_19012024_task.test_vwo">
+  <component name="RunManager" selected="Python tests.Python tests for test_27102024.test_make_my_trip">
     <configuration name="Python tests for test_19012024_task.test_awesomeqa_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="selenium_practice" />
       <option name="ENV_FILES" value="" />
@@ -103,8 +105,40 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_22102024.test_ebay_search" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="selenium_practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_22102024.test_ebay_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_27102024.test_make_my_trip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="selenium_practice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_27102024.test_make_my_trip&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_27102024.test_make_my_trip" />
+        <item itemvalue="Python tests.Python tests for test_22102024.test_ebay_search" />
         <item itemvalue="Python tests.Python tests for test_19012024_task.test_vwo" />
         <item itemvalue="Python tests.Python tests for test_19012024_task.test_awesomeqa_registration" />
         <item itemvalue="Python tests.Python tests for test_19012024.test_invalid_email_free_trial" />
@@ -114,7 +148,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -143,12 +177,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729306646725</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="task 19012024">
+      <option name="closed" value="true" />
+      <created>1729525895164</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729525895164</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added readme.md" />
     <MESSAGE value="practice script 19102024" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice script 19102024" />
+    <MESSAGE value="task 19012024" />
+    <option name="LAST_COMMIT_MESSAGE" value="task 19012024" />
   </component>
 </project>
