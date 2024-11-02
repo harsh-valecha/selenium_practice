@@ -24,15 +24,14 @@ def test_make_my_trip():
         ))
     )
 
-    from_city = driver.find_element(By.XPATH,"//input[@id='fromCity']")
+    from_city = driver.find_element(By.ID,"fromCity")
     # from_city.send_keys('DEL')
     actions = ActionChains(driver=driver)
-    (actions.move_to_element(to_element=from_city).
-     click()
-     .key_down(Keys.ARROW_DOWN)
-     .key_down(Keys.ARROW_DOWN)
-     .key_down(Keys.ENTER)
+    (actions.move_to_element(to_element=from_city)
+      .click()
+     .send_keys('del')
      .perform())
 
     time.sleep(3)
+
     driver.close()

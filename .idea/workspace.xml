@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a9e72f5b-8540-4abd-a36e-f3af35a4c19b" name="Changes" comment="task 19012024">
-      <change afterPath="$PROJECT_DIR$/tests/test_22102024.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_27102024.py" afterDir="false" />
+    <list default="true" id="a9e72f5b-8540-4abd-a36e-f3af35a4c19b" name="Changes" comment="practice 27102024">
+      <change afterPath="$PROJECT_DIR$/tests/test_02112024.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_27102024.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_27102024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,19 +45,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Python tests for test_19012024.test_invalid_email_free_trial.executor": "Run",
-    "Python tests.Python tests for test_19012024_task.test_awesomeqa_registration.executor": "Run",
-    "Python tests.Python tests for test_19012024_task.test_vwo.executor": "Run",
-    "Python tests.Python tests for test_22102024.test_ebay_search.executor": "Run",
-    "Python tests.Python tests for test_27102024.test_make_my_trip.executor": "Run",
-    "Python tests.Python tests in test_18012024.py.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Python tests for test_19012024.test_invalid_email_free_trial.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_19012024_task.test_awesomeqa_registration.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_19012024_task.test_vwo.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_22102024.test_ebay_search.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_27102024.test_make_my_trip.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_18012024.py.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.Python tests for test_27102024.test_make_my_trip">
     <configuration name="Python tests for test_19012024_task.test_awesomeqa_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="selenium_practice" />
@@ -185,13 +184,22 @@
       <option name="project" value="LOCAL" />
       <updated>1729525895164</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="practice 27102024">
+      <option name="closed" value="true" />
+      <created>1730044762367</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1730044762367</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added readme.md" />
     <MESSAGE value="practice script 19102024" />
     <MESSAGE value="task 19012024" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 19012024" />
+    <MESSAGE value="practice 27102024" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice 27102024" />
   </component>
 </project>
